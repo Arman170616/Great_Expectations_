@@ -1,3 +1,7 @@
 Great Expectations is the leading tool for validating, documenting, and profiling your data to maintain quality and improve communication between teams.
 
 Software developers have long known that automated testing is essential for managing complex codebases. Great Expectations brings the same discipline, confidence, and acceleration to data science and data engineering teams.
+
+
+Why would I use Great Expectations?
+
