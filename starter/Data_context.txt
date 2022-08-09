@@ -1,0 +1,15 @@
+Create a Data Context
+
+In Great Expectations, your Data Context manages your project configuration, so let’s go and create a Data Context for our tutorial project!
+
+
+When you installed Great Expectations, you also installed the Great Expectations command line interface (CLI). It provides helpful utilities for deploying and configuring Data Contexts, plus a few other convenience methods.
+
+To initialize your Great Expectations deployment for the project, run this command in the terminal from the ge_tutorials directory:
+
+'''
+
+great_expectations init
+
+'''
+When you see a prompt, press enter to continue. Great Expectations will build out the directory structure and configuration files it needs for you to proceed. All of these together are your Data Context.

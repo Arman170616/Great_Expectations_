@@ -1,0 +1,26 @@
+Setting up the tutorial data
+
+To clone the repository and go into the directory you'll be working from, start from your working directory and enter the following commands into your terminal:
+
+'''
+
+git clone https://github.com/superconductive/ge_tutorials
+cd ge_tutorials
+
+'''
+
+Great Expectations requires Python 3 and can be installed using pip. If you haven’t already, install Great Expectations by running:
+
+'''
+
+pip install great_expectations
+
+'''
+
+You can confirm that installation worked by running:
+
+'''
+
+great_expectations --version
+
+'''
